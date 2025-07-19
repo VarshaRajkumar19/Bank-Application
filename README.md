@@ -1,4 +1,5 @@
 Features
+
 ● Customer Management
 Create new customer profiles with name and address
 
