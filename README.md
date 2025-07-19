@@ -8,6 +8,7 @@ Automatically assigns a unique Customer ID
 Supports multiple customers in one session
 
 ● Account Types
+
 Savings Account
 
 Open account with an initial balance
@@ -25,10 +26,15 @@ Create fixed deposit with an initial amount and custom duration (in months)
 Interest calculated at 8.25% annually
 
 Close account and credit interest upon maturity
+
+
 ● Transactions
 Perform deposits and withdrawals with balance updates
+
 Calculate interest for both SB and FD accounts
+
 Show balance before and after each operation
+
 ● Console Interface
 Menu-driven interaction with clear step-by-step flow
 
@@ -37,6 +43,7 @@ Simple prompts for input and choices
 Easy to navigate and operate via terminal
 
 ● Design and Architecture
+
 Object-Oriented Programming (OOP) approach
 
 Account base class with SBAccount and FDAccount as derived classes
